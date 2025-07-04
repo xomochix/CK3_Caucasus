@@ -1,0 +1,21 @@
+﻿#georgian
+arevmaneli07 = {
+	name = "Zoracertel"
+	female = yes
+	dynasty = 25201
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = education_stewardship_2
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+	1047.1.1 = {
+		death = "1047.1.1"
+	}
+}
+
